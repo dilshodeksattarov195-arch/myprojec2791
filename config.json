@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "userppdate",
+        "uuid": 8426029,
+        "checksum": "mr3zy"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
